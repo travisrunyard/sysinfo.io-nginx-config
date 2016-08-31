@@ -1,2 +1,1 @@
-# travisrunyard.com
-config files for travisrunyard.com
+# travisrunyard.com nginx config files

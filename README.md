@@ -1,1 +1,1 @@
-# travisrunyard.com nginx config files
+# https://sysinfo.io/ nginx config files
